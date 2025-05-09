@@ -3,45 +3,45 @@
 	<PropertyGroup>
 		<OutputType>Library</OutputType>
 		<TargetFramework>net472</TargetFramework>
-    <LangVersion>12</LangVersion>
+		<LangVersion>12</LangVersion>
 		<Configurations>Debug;Release</Configurations>
-		
+
 		<!--The file where mod information which is required for publishing mod on PDX mods are stored-->
 		<PublishConfigurationPath>Properties\PublishConfiguration.xml</PublishConfigurationPath>
 	</PropertyGroup>
-	
+
 	<!--Imports must be after PropertyGroup block-->
 	<Import Project="$([System.Environment]::GetEnvironmentVariable('CSII_TOOLPATH', 'EnvironmentVariableTarget.User'))\Mod.props" />
 	<Import Project="$([System.Environment]::GetEnvironmentVariable('CSII_TOOLPATH', 'EnvironmentVariableTarget.User'))\Mod.targets" />
-  <Import Project="$(SolutionDir)\_Build\belzont_public.targets" />
+	<Import Project="$(SolutionDir)\_Build\belzont_public.targets" />
 
-  <PropertyGroup>
-    <IsBelzontCommonsMod>false</IsBelzontCommonsMod>
-    <ModId></ModId>
-    <Version>1.0.0.0</Version>
-    <GameVersion>1.*</GameVersion>
-    <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
-    <DisplayName>Write Everywhere Module Model Project</DisplayName>
-    <ShortDescription>Module to use along CS2 version of the mod Write Everywhere</ShortDescription>
-    <ForumLink></ForumLink>
-    <GitHubLink></GitHubLink>
-    <YoutubeLink></YoutubeLink>
-    <KofiLink></KofiLink>
-    <BMACLink></BMACLink>
-    <CrowdinLink></CrowdinLink>
-    <TwitterLink></TwitterLink>
-    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-  </PropertyGroup>
+	<PropertyGroup>
+		<IsBelzontCommonsMod>false</IsBelzontCommonsMod>
+		<ModId>108707</ModId>
+		<Version>0.1.0.0</Version>
+		<GameVersion>1.2.*</GameVersion>
+		<ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
+		<DisplayName>Swedish themed roadsigns (Write Everywhere)</DisplayName>
+		<ShortDescription>Uses Write Everywhere to reskin all road signs to Swedish versions</ShortDescription>
+		<ForumLink>https://forum.paradoxplaza.com/forum/threads/swedish-roadsigns.1743447/</ForumLink>
+		<GitHubLink></GitHubLink>
+		<YoutubeLink></YoutubeLink>
+		<KofiLink></KofiLink>
+		<BMACLink></BMACLink>
+		<CrowdinLink></CrowdinLink>
+		<TwitterLink></TwitterLink>
+		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <ModTag Include="Code Mod" />
-    <Screenshots Include="Screenshots/*.jpg" />
-    <Dependency Include="WriteEverywhere">
-      <ModId>92908</ModId>
-      <DisplayName>Write Everywhere</DisplayName>
-    </Dependency>
-  </ItemGroup>
-  
+	<ItemGroup>
+		<ModTag Include="Code Mod" />
+		<Screenshots Include="Screenshots/*.jpg" />
+		<Dependency Include="WriteEverywhere">
+			<ModId>92908</ModId>
+			<DisplayName>Write Everywhere</DisplayName>
+		</Dependency>
+	</ItemGroup>
+
 
 	<ItemGroup>
 		<Reference Include="Game">
@@ -71,9 +71,9 @@
 		<Reference Include="Unity.Mathematics">
 			<Private>false</Private>
 		</Reference>
-    <Reference Include="Colossal.AssetPipeline">
-      <Private>False</Private>
-    </Reference>
+		<Reference Include="Colossal.AssetPipeline">
+			<Private>False</Private>
+		</Reference>
 	</ItemGroup>
 
 	<ItemGroup>
@@ -93,29 +93,29 @@
 		<None Include="$(ModTargetsFile)" Link="Properties\Mod.targets" />
 	</ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Lib.Harmony" Version="2.3.3" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Lib.Harmony" Version="2.3.3" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <EmbeddedResource Include="changelog.md" />
-  </ItemGroup>
+	<ItemGroup>
+		<EmbeddedResource Include="changelog.md" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Resources\layouts\" />
-    <Folder Include="Resources\atlases\" />
-    <Folder Include="Resources\fonts\" />
-  </ItemGroup>
-  
-  <Target Name="GetAdditionalFiles" AfterTargets="DeployWIP">
-    <ItemGroup>
-      <AdditionalFilesToDeployAtlas Include="Resources\atlases\**\*.png" />
-      <AdditionalFilesToDeployFonts Include="Resources\fonts\**\*.ttf" />
-      <AdditionalFilesToDeployLayouts Include="Resources\layouts\**\*.welayout.xml" />
-      <AdditionalFilesToDeployLayouts Include="Resources\layouts\**\*.wedefault.xml" />
-    </ItemGroup>
-    <Copy SourceFiles="@(AdditionalFilesToDeployAtlas)"		DestinationFiles="@(AdditionalFilesToDeployAtlas->'$(DeployDir)\atlases\%(RecursiveDir)%(Filename)%(Extension)')" />
-    <Copy SourceFiles="@(AdditionalFilesToDeployFonts)"		DestinationFiles="@(AdditionalFilesToDeployFonts->'$(DeployDir)\fonts\%(RecursiveDir)%(Filename)%(Extension)')" />
-    <Copy SourceFiles="@(AdditionalFilesToDeployLayouts)" DestinationFiles="@(AdditionalFilesToDeployLayouts->'$(DeployDir)\layouts\%(RecursiveDir)%(Filename)%(Extension)')" />
-  </Target>
+	<ItemGroup>
+		<Folder Include="Resources\layouts\" />
+		<Folder Include="Resources\atlases\" />
+		<Folder Include="Resources\fonts\" />
+	</ItemGroup>
+
+	<Target Name="GetAdditionalFiles" AfterTargets="DeployWIP">
+		<ItemGroup>
+			<AdditionalFilesToDeployAtlas Include="Resources\atlases\**\*.png" />
+			<AdditionalFilesToDeployFonts Include="Resources\fonts\**\*.ttf" />
+			<AdditionalFilesToDeployLayouts Include="Resources\layouts\**\*.welayout.xml" />
+			<AdditionalFilesToDeployLayouts Include="Resources\layouts\**\*.wedefault.xml" />
+		</ItemGroup>
+		<Copy SourceFiles="@(AdditionalFilesToDeployAtlas)"		DestinationFiles="@(AdditionalFilesToDeployAtlas->'$(DeployDir)\atlases\%(RecursiveDir)%(Filename)%(Extension)')" />
+		<Copy SourceFiles="@(AdditionalFilesToDeployFonts)"		DestinationFiles="@(AdditionalFilesToDeployFonts->'$(DeployDir)\fonts\%(RecursiveDir)%(Filename)%(Extension)')" />
+		<Copy SourceFiles="@(AdditionalFilesToDeployLayouts)" DestinationFiles="@(AdditionalFilesToDeployLayouts->'$(DeployDir)\layouts\%(RecursiveDir)%(Filename)%(Extension)')" />
+	</Target>
 </Project>
