@@ -1,2 +1,2 @@
-#  v0.1.0
-- Initial version of the module.
+#  v1.0.0
+- Fixed EU_OneWay sign not appearing correctly_

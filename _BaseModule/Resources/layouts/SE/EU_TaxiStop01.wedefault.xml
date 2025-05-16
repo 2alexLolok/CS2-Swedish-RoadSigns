@@ -2,7 +2,7 @@
   <children>
     <self itemName="New item">
       <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
-        <offsetPosition x="0.0280000046" y="1.26000011" z="0" />
+        <offsetPosition x="0.028" y="1.26000011" z="0" />
         <offsetRotation x="-0" y="90" z="0" />
         <scale x="0.589375" y="0.3" z="1" />
         <mustDraw>0</mustDraw>
@@ -11,7 +11,7 @@
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <imageMesh atlas="SE_Sidesign">
-        <image>Info_signBlue</image>
+        <image>TAXI</image>
       </imageMesh>
       <defaultStyle>
         <color>FFFFFFFF</color>
@@ -26,34 +26,6 @@
         <colorMask3>FFFFFF</colorMask3>
       </defaultStyle>
     </self>
-    <children>
-      <self itemName="New item">
-        <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="0" y="0" z="0" />
-          <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.1358594" y="0.1358594" z="1" />
-          <mustDraw>0</mustDraw>
-          <instanceCount>-1</instanceCount>
-          <arrayInstances x="1" y="1" z="1" />
-          <arraySpacing x="0" y="0" z="0" />
-        </transform>
-        <textMesh fontName="TRATV_" maxWidthMeters="0.6">
-          <text>TAXI</text>
-        </textMesh>
-        <defaultStyle>
-          <color>FFFFFFFF</color>
-          <emissiveColor>FFFFFFFF</emissiveColor>
-          <metallic>0</metallic>
-          <smoothness>0</smoothness>
-          <emissiveIntensity>0</emissiveIntensity>
-          <emissiveExposureWeight>0</emissiveExposureWeight>
-          <coatStrength>0</coatStrength>
-          <colorMask1>FFFFFF</colorMask1>
-          <colorMask2>FFFFFF</colorMask2>
-          <colorMask3>FFFFFF</colorMask3>
-        </defaultStyle>
-      </self>
-    </children>
     <children>
       <self itemName="New item">
         <transform alignment="Left" arrayAxisOrder="XYZ">
@@ -87,7 +59,7 @@
     <self itemName="New item">
       <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
         <offsetPosition x="-0.0349999964" y="1.26000011" z="7.450581E-09" />
-        <offsetRotation x="0" y="270" z="0" />
+        <offsetRotation x="-0" y="270" z="0" />
         <scale x="0.589375" y="0.3" z="1" />
         <mustDraw>0</mustDraw>
         <instanceCount>-1</instanceCount>
@@ -95,7 +67,7 @@
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <imageMesh atlas="SE_Sidesign">
-        <image>Info_signBlue</image>
+        <image>TAXI</image>
       </imageMesh>
       <defaultStyle>
         <color>FFFFFFFF</color>
@@ -110,34 +82,6 @@
         <colorMask3>FFFFFF</colorMask3>
       </defaultStyle>
     </self>
-    <children>
-      <self itemName="New item">
-        <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="0" y="0" z="0" />
-          <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.1358594" y="0.1358594" z="1" />
-          <mustDraw>0</mustDraw>
-          <instanceCount>-1</instanceCount>
-          <arrayInstances x="1" y="1" z="1" />
-          <arraySpacing x="0" y="0" z="0" />
-        </transform>
-        <textMesh fontName="TRATV_" maxWidthMeters="0.6">
-          <text>TAXI</text>
-        </textMesh>
-        <defaultStyle>
-          <color>FFFFFFFF</color>
-          <emissiveColor>FFFFFFFF</emissiveColor>
-          <metallic>0</metallic>
-          <smoothness>0</smoothness>
-          <emissiveIntensity>0</emissiveIntensity>
-          <emissiveExposureWeight>0</emissiveExposureWeight>
-          <coatStrength>0</coatStrength>
-          <colorMask1>FFFFFF</colorMask1>
-          <colorMask2>FFFFFF</colorMask2>
-          <colorMask3>FFFFFF</colorMask3>
-        </defaultStyle>
-      </self>
-    </children>
     <children>
       <self itemName="New item">
         <transform alignment="Left" arrayAxisOrder="XYZ">
@@ -169,17 +113,17 @@
   </children>
   <children>
     <self itemName="New item">
-      <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
-        <offsetPosition x="0.0280000046" y="1.042" z="0" />
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="0.028" y="1.028" z="1.86264515E-09" />
         <offsetRotation x="-0" y="90" z="0" />
-        <scale x="0.589375" y="0.15" z="1" />
-        <mustDraw>0</mustDraw>
+        <scale x="0.177578077" y="0.177578077" z="1" />
+        <mustDraw>1</mustDraw>
         <instanceCount>-1</instanceCount>
         <arrayInstances x="1" y="1" z="1" />
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <imageMesh atlas="SE_Sidesign">
-        <image>Info_signBlue</image>
+        <image>TaxiProvider</image>
       </imageMesh>
       <defaultStyle>
         <color>FFFFFFFF</color>
@@ -194,61 +138,5 @@
         <colorMask3>FFFFFF</colorMask3>
       </defaultStyle>
     </self>
-    <children>
-      <self itemName="New item">
-        <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="0" y="0.024" z="0" />
-          <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.0353125259" y="0.0353125259" z="1" />
-          <mustDraw>0</mustDraw>
-          <instanceCount>-1</instanceCount>
-          <arrayInstances x="1" y="1" z="1" />
-          <arraySpacing x="0" y="0" z="0" />
-        </transform>
-        <textMesh fontName="TRATV_" maxWidthMeters="0.6">
-          <text>Stadens Taxiservice</text>
-        </textMesh>
-        <defaultStyle>
-          <color>FFFFFFFF</color>
-          <emissiveColor>FFFFFFFF</emissiveColor>
-          <metallic>0</metallic>
-          <smoothness>0</smoothness>
-          <emissiveIntensity>0</emissiveIntensity>
-          <emissiveExposureWeight>0</emissiveExposureWeight>
-          <coatStrength>0</coatStrength>
-          <colorMask1>FFFFFF</colorMask1>
-          <colorMask2>FFFFFF</colorMask2>
-          <colorMask3>FFFFFF</colorMask3>
-        </defaultStyle>
-      </self>
-    </children>
-    <children>
-      <self itemName="New item">
-        <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="0" y="-0.0270000026" z="0" />
-          <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.0353125259" y="0.0353125259" z="1" />
-          <mustDraw>0</mustDraw>
-          <instanceCount>-1</instanceCount>
-          <arrayInstances x="1" y="1" z="1" />
-          <arraySpacing x="0" y="0" z="0" />
-        </transform>
-        <textMesh fontName="TRATV_" maxWidthMeters="0.6">
-          <text>Tel: 099 720 20</text>
-        </textMesh>
-        <defaultStyle>
-          <color>FFFFFFFF</color>
-          <emissiveColor>FFFFFFFF</emissiveColor>
-          <metallic>0</metallic>
-          <smoothness>0</smoothness>
-          <emissiveIntensity>0</emissiveIntensity>
-          <emissiveExposureWeight>0</emissiveExposureWeight>
-          <coatStrength>0</coatStrength>
-          <colorMask1>FFFFFF</colorMask1>
-          <colorMask2>FFFFFF</colorMask2>
-          <colorMask3>FFFFFF</colorMask3>
-        </defaultStyle>
-      </self>
-    </children>
   </children>
 </WELayout>

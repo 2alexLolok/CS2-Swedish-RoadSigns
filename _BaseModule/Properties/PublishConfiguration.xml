@@ -1,29 +1,27 @@
 <Publish>
-  <ModId Value="" />
-  <DisplayName Value="Swedish themed roadsigns (Write Everywhere)" />
+  <ModId Value="108707" />
+  <DisplayName Value="SE - Sweden Vanilla Theme Override" />
   <ShortDescription Value="Uses Write Everywhere to reskin all road signs to Swedish versions" />
-  <LongDescription># Model project for Write Everywhre modules mods
+  <LongDescription># Swedish themed road signs and decals
+This mod is changing all vanilla road signs to the Swedish equivalent.
 
-This is a project to be used as starter point to any new module pack of Write Everywhere mod for Cities Skylines 2.
+- Changes include
+- Speed limit signs
+- Parking signs
+- Taxi sign
+- Railway crossing signs
+- Road speed limit decals
+- Road arrow decals
 
-## Setting up
-
-- Rename this project and solution to setup the DLL name this module will have.
-	- TIP: To avoid conflicts, start the project name with a acronym representing your name, example: `XYZ_MyWEModule` being XYZ the acronym that represents you.
-- Add resources at each `Resources/` subfolder as instructed locally there
-- Change csproj file details (DisplayName, ShortDescription, ForumLink, other social media links tags)
-- Setup thumbnail into `Properties/Thumbnail.png`
-- Add screenshots at `Screenshots/` folder (jpg files, optional)
-- Publish the mod using "Publish..." option in context menu of the project
-- After having a modId in Paradox Mods, setup it into the ModId parameter at csproj file
-
-After that, just don't forget to change the Version parameter in the csproj file if you need to upload new versions of the module!</LongDescription>
+## WRITE EVERYWHERE IS REQUIRED FOR THIS MOD TO WORK
+Before using this mod make sure that Write Everywhere is downloaded and active!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/swedish-roadsigns.1743447/" />
-  <ModVersion Value="0.1.0.0" />
-  <GameVersion Value="1.2.*" />
-  <ChangeLog>#  v0.1.0
-- Initial version of the module.</ChangeLog>
+  <ModVersion Value="1.0.0.0" />
+  <GameVersion Value="1.*" />
+  <ChangeLog>#  v1.0.0
+- Fixed EU_OneWay sign not appearing correctly_</ChangeLog>
   <Tag Value="Code Mod" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
+  <ExternalLink Type="github" Url="https://github.com/2alexLolok/CS2-Swedish-RoadSigns" />
 </Publish>

@@ -1,17 +1,13 @@
 <WELayout>
   <children>
     <self itemName="New item">
-      <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="-0.004" y="1.85100019" z="0.069" />
+      <transform pivot="MiddleCenter">
+        <offsetPosition x="0" y="2.05" z="0.049999997" />
         <offsetRotation x="-0" y="0" z="0" />
-        <scale x="0.589375" y="0.589375" z="1" />
-        <mustDraw>0</mustDraw>
-        <instanceCount>-1</instanceCount>
-        <arrayInstances x="1" y="1" z="1" />
-        <arraySpacing x="0" y="0" z="0" />
+        <scale x="0.650546849" y="0.650546849" z="1" />
       </transform>
       <imageMesh atlas="SE_Sidesign">
-        <image>Speed60</image>
+        <image>PedXing</image>
       </imageMesh>
       <defaultStyle>
         <color>FFFFFFFF</color>

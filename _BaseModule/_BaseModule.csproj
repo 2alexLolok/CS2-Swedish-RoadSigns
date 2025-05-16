@@ -18,13 +18,13 @@
 	<PropertyGroup>
 		<IsBelzontCommonsMod>false</IsBelzontCommonsMod>
 		<ModId>108707</ModId>
-		<Version>0.1.0.0</Version>
-		<GameVersion>1.2.*</GameVersion>
+		<Version>1.0.0.0</Version>
+		<GameVersion>1.*</GameVersion>
 		<ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
-		<DisplayName>Swedish themed roadsigns (Write Everywhere)</DisplayName>
+		<DisplayName>SE - Sweden Vanilla Theme Override</DisplayName>
 		<ShortDescription>Uses Write Everywhere to reskin all road signs to Swedish versions</ShortDescription>
 		<ForumLink>https://forum.paradoxplaza.com/forum/threads/swedish-roadsigns.1743447/</ForumLink>
-		<GitHubLink></GitHubLink>
+		<GitHubLink>https://github.com/2alexLolok/CS2-Swedish-RoadSigns</GitHubLink>
 		<YoutubeLink></YoutubeLink>
 		<KofiLink></KofiLink>
 		<BMACLink></BMACLink>
