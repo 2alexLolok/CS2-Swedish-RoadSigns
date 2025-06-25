@@ -17,14 +17,14 @@
 
 	<PropertyGroup>
 		<IsBelzontCommonsMod>false</IsBelzontCommonsMod>
-		<ModId>0</ModId>
+		<ModId></ModId>
 		<Version>1.0</Version>
 		<GameVersion>1.*</GameVersion>
 		<ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
 		<DisplayName>Custom Swedish HWY Signs</DisplayName>
 		<ShortDescription>This Write Everywhere module lets you create realistic highway signs in Swedish style. The tutorial is recommended.</ShortDescription>
 		<ForumLink>https://forum.paradoxplaza.com/forum/threads/custom-swedish-highway-signs.1807020/</ForumLink>
-		<GitHubLink></GitHubLink>
+		<GitHubLink>https://github.com/2alexLolok/CS2-Swedish-RoadSigns</GitHubLink>
 		<YoutubeLink>https://www.youtube.com/watch?v=sqd3AoK-Vcw</YoutubeLink>
 		<KofiLink></KofiLink>
 		<BMACLink></BMACLink>

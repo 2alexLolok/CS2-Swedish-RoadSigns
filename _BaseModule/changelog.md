@@ -1,2 +1,1 @@
-#  v1.0.0
-- TEST
+#  v1.0 initial release
