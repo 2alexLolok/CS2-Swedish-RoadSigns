@@ -1,0 +1,345 @@
+<WELayout>
+  <self itemName="2 Lanes Roundabout">
+    <transform alignment="Left" arrayAxisOrder="XYZ">
+      <offsetPosition x="0" y="0" z="0" />
+      <offsetRotation x="-0" y="0" z="0" />
+      <scale x="0" y="0" z="0" />
+      <mustDraw>0</mustDraw>
+      <instanceCount>-1</instanceCount>
+      <arrayInstances x="1" y="1" z="1" />
+      <arraySpacing x="0" y="0" z="0" />
+    </transform>
+    <textMesh fontName="">
+      <text></text>
+      <MaxWidthMeters>0</MaxWidthMeters>
+    </textMesh>
+    <defaultStyle>
+      <color>00000000</color>
+      <emissiveColor>00000000</emissiveColor>
+      <metallic>0</metallic>
+      <smoothness>0</smoothness>
+      <emissiveIntensity>0</emissiveIntensity>
+      <emissiveExposureWeight>0</emissiveExposureWeight>
+      <coatStrength>0</coatStrength>
+      <colorMask1>000000</colorMask1>
+      <colorMask2>000000</colorMask2>
+      <colorMask3>000000</colorMask3>
+    </defaultStyle>
+  </self>
+  <children>
+    <self itemName="Right sign">
+      <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
+        <offsetPosition x="5.074499" y="5.88" z="-0.3100002" />
+        <offsetRotation x="-0" y="180" z="0" />
+        <scale x="4" y="1.5" z="1" />
+        <mustDraw>0</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+        <image>Blue</image>
+      </imageMesh>
+      <defaultStyle decalFlags="0">
+        <color>FFFFFFFF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0.41582945</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+    <children>
+      <self itemName="CONTENT">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0" y="0.179999992" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.45" y="0.45" z="1" />
+          <mustDraw>0</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <textMesh fontName="TRATV_">
+          <text></text>
+          <MaxWidthMeters>0</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0.2589254</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+      <children>
+        <self itemName="Destination  TOP">
+          <transform alignment="Left" arrayAxisOrder="XYZ">
+            <offsetPosition x="0.94" y="0.3" z="0" />
+            <offsetRotation x="-0" y="0" z="0" />
+            <scale x="0.25" y="0.25" z="1" />
+            <mustDraw>0</mustDraw>
+            <instanceCount>-1</instanceCount>
+            <arrayInstances x="1" y="1" z="1" />
+            <arraySpacing x="0" y="0" z="0" />
+          </transform>
+          <textMesh fontName="TRATV_" rescaleHeightOnTextOverflow="true">
+            <text>UPPSALA</text>
+            <MaxWidthMeters>0</MaxWidthMeters>
+          </textMesh>
+          <defaultStyle>
+            <color>FFFFFFFF</color>
+            <emissiveColor>FFFFFFFF</emissiveColor>
+            <metallic>0</metallic>
+            <smoothness>0</smoothness>
+            <emissiveIntensity>0</emissiveIntensity>
+            <emissiveExposureWeight>0</emissiveExposureWeight>
+            <coatStrength>0</coatStrength>
+            <colorMask1>FFFFFF</colorMask1>
+            <colorMask2>FFFFFF</colorMask2>
+            <colorMask3>FFFFFF</colorMask3>
+          </defaultStyle>
+        </self>
+      </children>
+      <children>
+        <self itemName="Arrow L">
+          <transform pivot="MiddleLeft" alignment="Left" arrayAxisOrder="XYZ">
+            <offsetPosition x="1.83999991" y="-0.430000722" z="0" />
+            <offsetRotation x="-0" y="0" z="0" />
+            <scale x="1" y="1" z="1" />
+            <mustDraw>0</mustDraw>
+            <instanceCount>-1</instanceCount>
+            <arrayInstances x="1" y="1" z="1" />
+            <arraySpacing x="0" y="0" z="0" />
+          </transform>
+          <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+            <image>Straight_R_Short</image>
+          </imageMesh>
+          <defaultStyle>
+            <color>FFFFFFFF</color>
+            <emissiveColor>FFFFFFFF</emissiveColor>
+            <metallic>0</metallic>
+            <smoothness>0</smoothness>
+            <emissiveIntensity>0</emissiveIntensity>
+            <emissiveExposureWeight>0</emissiveExposureWeight>
+            <coatStrength>0</coatStrength>
+            <colorMask1>FFFFFF</colorMask1>
+            <colorMask2>FFFFFF</colorMask2>
+            <colorMask3>FFFFFF</colorMask3>
+          </defaultStyle>
+        </self>
+      </children>
+      <children>
+        <self itemName="Right White">
+          <transform pivot="MiddleRight" alignment="Left" arrayAxisOrder="XYZ">
+            <offsetPosition x="-1.6099999" y="-0.5" z="0" />
+            <offsetRotation x="-0" y="0" z="0" />
+            <scale x="2.4" y="0.7" z="1" />
+            <mustDraw>0</mustDraw>
+            <instanceCount>-1</instanceCount>
+            <arrayInstances x="1" y="1" z="1" />
+            <arraySpacing x="0" y="0" z="0" />
+          </transform>
+          <whiteMesh />
+          <defaultStyle>
+            <color>FFFFFFFF</color>
+            <emissiveColor>FFFFFFFF</emissiveColor>
+            <metallic>0</metallic>
+            <smoothness>0</smoothness>
+            <emissiveIntensity>0</emissiveIntensity>
+            <emissiveExposureWeight>0</emissiveExposureWeight>
+            <coatStrength>0</coatStrength>
+            <colorMask1>FFFFFF</colorMask1>
+            <colorMask2>FFFFFF</colorMask2>
+            <colorMask3>FFFFFF</colorMask3>
+          </defaultStyle>
+        </self>
+        <children>
+          <self itemName="Destination #5L">
+            <transform pivot="MiddleLeft" alignment="Left" arrayAxisOrder="XYZ">
+              <offsetPosition x="1.15" y="0.11999999" z="0" />
+              <offsetRotation x="-0" y="0" z="0" />
+              <scale x="0.25" y="0.25" z="1" />
+              <mustDraw>0</mustDraw>
+              <instanceCount>-1</instanceCount>
+              <arrayInstances x="1" y="1" z="1" />
+              <arraySpacing x="0" y="0" z="0" />
+            </transform>
+            <textMesh fontName="TRATV_" rescaleHeightOnTextOverflow="true">
+              <text>ÖRBY SLOTT</text>
+              <MaxWidthMeters>0</MaxWidthMeters>
+            </textMesh>
+            <defaultStyle>
+              <color>000000FF</color>
+              <emissiveColor>FFFFFFFF</emissiveColor>
+              <metallic>0</metallic>
+              <smoothness>0</smoothness>
+              <emissiveIntensity>0</emissiveIntensity>
+              <emissiveExposureWeight>0</emissiveExposureWeight>
+              <coatStrength>0</coatStrength>
+              <colorMask1>FFFFFF</colorMask1>
+              <colorMask2>FFFFFF</colorMask2>
+              <colorMask3>FFFFFF</colorMask3>
+            </defaultStyle>
+          </self>
+        </children>
+        <children>
+          <self itemName="Destination #5L">
+            <transform pivot="MiddleLeft" alignment="Left" arrayAxisOrder="XYZ">
+              <offsetPosition x="1.12000012" y="-0.21" z="0" />
+              <offsetRotation x="-0" y="0" z="0" />
+              <scale x="0.25" y="0.25" z="1" />
+              <mustDraw>0</mustDraw>
+              <instanceCount>-1</instanceCount>
+              <arrayInstances x="1" y="1" z="1" />
+              <arraySpacing x="0" y="0" z="0" />
+            </transform>
+            <textMesh fontName="TRATV_" rescaleHeightOnTextOverflow="true">
+              <text>INGEFORS</text>
+              <MaxWidthMeters>0</MaxWidthMeters>
+            </textMesh>
+            <defaultStyle>
+              <color>000000FF</color>
+              <emissiveColor>FFFFFFFF</emissiveColor>
+              <metallic>0</metallic>
+              <smoothness>0</smoothness>
+              <emissiveIntensity>0</emissiveIntensity>
+              <emissiveExposureWeight>0</emissiveExposureWeight>
+              <coatStrength>0</coatStrength>
+              <colorMask1>FFFFFF</colorMask1>
+              <colorMask2>FFFFFF</colorMask2>
+              <colorMask3>FFFFFF</colorMask3>
+            </defaultStyle>
+          </self>
+        </children>
+      </children>
+    </children>
+    <variable key="newKey" value="newValue" />
+    <variable key="newKey" value="newValueS" />
+  </children>
+  <children>
+    <self itemName="Left sign">
+      <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
+        <offsetPosition x="0.8244997" y="5.88" z="-0.309999853" />
+        <offsetRotation x="-0" y="180" z="0" />
+        <scale x="4" y="0.8" z="1" />
+        <mustDraw>0</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+        <image>White</image>
+      </imageMesh>
+      <defaultStyle decalFlags="0">
+        <color>FFFFFFFF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0.41582945</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+    <children>
+      <self itemName="CONTENT">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0.329999983" y="-0.13" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.45" y="0.45" z="1" />
+          <mustDraw>0</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <textMesh fontName="TRATV_">
+          <text></text>
+          <MaxWidthMeters>0</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0.2589254</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+      <children>
+        <self itemName="Arrow L">
+          <transform pivot="MiddleLeft" alignment="Left" arrayAxisOrder="XYZ">
+            <offsetPosition x="-1.23999989" y="0.109999269" z="0" />
+            <offsetRotation x="-0" y="0" z="0" />
+            <scale x="0.6" y="0.6" z="1" />
+            <mustDraw>0</mustDraw>
+            <instanceCount>-1</instanceCount>
+            <arrayInstances x="1" y="1" z="1" />
+            <arraySpacing x="0" y="0" z="0" />
+          </transform>
+          <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+            <image>L</image>
+          </imageMesh>
+          <defaultStyle>
+            <color>000000FF</color>
+            <emissiveColor>FFFFFFFF</emissiveColor>
+            <metallic>0</metallic>
+            <smoothness>0</smoothness>
+            <emissiveIntensity>0</emissiveIntensity>
+            <emissiveExposureWeight>0</emissiveExposureWeight>
+            <coatStrength>0</coatStrength>
+            <colorMask1>FFFFFF</colorMask1>
+            <colorMask2>FFFFFF</colorMask2>
+            <colorMask3>FFFFFF</colorMask3>
+          </defaultStyle>
+        </self>
+      </children>
+      <children>
+        <self itemName="Destination #5L">
+          <transform pivot="MiddleLeft" alignment="Left" arrayAxisOrder="XYZ">
+            <offsetPosition x="1.15" y="0.11999999" z="0" />
+            <offsetRotation x="-0" y="0" z="0" />
+            <scale x="0.25" y="0.25" z="1" />
+            <mustDraw>0</mustDraw>
+            <instanceCount>-1</instanceCount>
+            <arrayInstances x="1" y="1" z="1" />
+            <arraySpacing x="0" y="0" z="0" />
+          </transform>
+          <textMesh fontName="TRATV_" rescaleHeightOnTextOverflow="true">
+            <text>ÖRBY SLOTT</text>
+            <MaxWidthMeters>0</MaxWidthMeters>
+          </textMesh>
+          <defaultStyle>
+            <color>000000FF</color>
+            <emissiveColor>FFFFFFFF</emissiveColor>
+            <metallic>0</metallic>
+            <smoothness>0</smoothness>
+            <emissiveIntensity>0</emissiveIntensity>
+            <emissiveExposureWeight>0</emissiveExposureWeight>
+            <coatStrength>0</coatStrength>
+            <colorMask1>FFFFFF</colorMask1>
+            <colorMask2>FFFFFF</colorMask2>
+            <colorMask3>FFFFFF</colorMask3>
+          </defaultStyle>
+        </self>
+      </children>
+    </children>
+    <variable key="newKey" value="newValue" />
+    <variable key="newKey" value="newValueS" />
+  </children>
+</WELayout>

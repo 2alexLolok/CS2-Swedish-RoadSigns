@@ -1,0 +1,2072 @@
+<WELayout>
+  <self itemName="All Images">
+    <transform alignment="Left" arrayAxisOrder="XYZ">
+      <offsetPosition x="0" y="0" z="0" />
+      <offsetRotation x="-0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+      <mustDraw>1</mustDraw>
+      <instanceCount>-1</instanceCount>
+      <arrayInstances x="1" y="1" z="1" />
+      <arraySpacing x="0" y="0" z="0" />
+    </transform>
+    <matrixTransform />
+  </self>
+  <children>
+    <self itemName="Arrows">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="0" y="0" z="0" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="1" y="1" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <matrixTransform />
+    </self>
+    <children>
+      <self itemName="L">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0" y="8.549999" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>L</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="L_EXIT_AHEAD_LONG">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0.979999959" y="7.47999954" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>R_Exit_Ahead_long</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="L_EXIT_AHEAD_SHORT">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="1.73" y="8.57" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>L_Exit_Ahead_short</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="L_EXIT_LONG">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="2.77" y="8.57" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>L_Exit_Long</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="L_EXIT_LSTRAIGHT">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="3.66" y="8.57" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>L_Exit_LStraight</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="L_EXIT_MEDIUM">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="4.34" y="8.57" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>L_Exit_Medium</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="L_EXIT_SHORT">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="5.01" y="8.57" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>L_Exit_Short</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="L_LONG">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="5.75" y="8.57" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>L_Long</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="L_MEDIUM">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="6.36" y="8.57" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>L_Medium</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="R">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0" y="7.55" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>R</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="R_EXIT_AHEAD_LONG">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0.979999959" y="8.57" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>L_Exit_Ahead_long</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="R_EXIT_AHEAD_SHORT">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="1.73" y="7.47999954" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>R_Exit_Ahead_short</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="R_EXIT_LONG">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="2.77" y="7.43999958" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>R_Exit_long</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="R_EXIT_RSTRAIGHT">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="3.66" y="7.55999947" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>R_Exit_RStraight</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="R_EXIT_MEDIUM">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="4.34" y="7.58" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>R_Exit_Medium</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="R_EXIT_SHORT">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="5.01" y="7.56999969" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>R_Exit_Short</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="R_LONG">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="5.75" y="7.5199995" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>R_Long</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="R_MEDIUM">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="6.36" y="7.5" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>R_Medium</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="ROUNDABOUT">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="6.36" y="6.19000053" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>Roundabout</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="ROUNDABOUTL">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="5.09" y="6.22000027" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>RoundaboutL</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="ROUNDABOUTR">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="4.31000042" y="6.22000027" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>RoundaboutR</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="ROUNDABOUTSTRAIGHT">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="3.60000038" y="6.22000027" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>RoundaboutStraight</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="SPANISHTURN">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="2.78000021" y="6.22000027" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>SpanishTurn</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="STRAIGHT">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="6.36" y="5.17" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>Straight</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="STRAIGHT_LONG">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="5.10000038" y="5.17" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>Straight_Long</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="STRAIGHT_L_LONG">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="4.39000034" y="5.17" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>Straight_L_Long</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="STRAIGHT_L_SHORT">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="3.63000035" y="5.17" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>Straight_L_Short</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="STRAIGHT_MEDIUM">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="2.80000043" y="5.17" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>Straight_Medium</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="STRAIGHT_R_LONG">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="2.07000041" y="5.17" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>Straight_R_Long</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="STRAIGHT_R_SHORT">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="1.32000041" y="5.17" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadArrows">
+          <image>Straight_R_Short</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+  </children>
+  <children>
+    <self itemName="RoadIcons">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="0" y="0" z="0" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="1" y="1" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <matrixTransform />
+    </self>
+    <children>
+      <self itemName="BusStation">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="6.37" y="3.73999929" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>BusStation</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Camping1">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="5.27999973" y="3.73999929" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Camping_1</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Camping2">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="4.1699996" y="3.73999929" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Camping_2</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="ExitNR">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="2.17999959" y="3.73999929" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>ExitNR</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Fishing">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0.299999684" y="3.73999929" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Fishing</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Gas Station">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-0.7700002" y="3.73999929" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Gas_station</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Hiking">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="6.35999966" y="2.63999915" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Hiking</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Hospital">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="5.29" y="2.64999914" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Hospital</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Hotel">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="4.1" y="2.64999914" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Hotel</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Industry">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="2.93999982" y="2.64999914" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Industry</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Information">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="1.81999981" y="2.64999914" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Information</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Landmark">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0.7299998" y="2.64999914" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Landmark</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="RestArea">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-0.450000167" y="2.64999914" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>RestArea</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Restaurant">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-1.59000015" y="2.64999914" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Restaurant</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Road Ahead">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="6.33999968" y="1.55999911" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Road_Ahead</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Road Ahead Blue">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="4.70999956" y="1.60999906" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Road_Ahead_BLUE</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Road Ahead Green">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="2.99999952" y="1.60999906" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Road_Ahead_GREEN</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Road Current">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="6.33999968" y="0.509999156" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Road_Current</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Road Current Blue">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="4.75" y="0.509999156" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Road_Current_BLUE</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Road Current Green">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="3.04" y="0.509999156" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Road_Current_GREEN</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Swimming">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="1.57999992" y="1.57999909" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Swimming_Area</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Toll">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0.4899999" y="1.57999909" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Toll</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Tourism">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-0.5500001" y="1.5699991" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>Tourism</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="TrainStation">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-1.6400001" y="1.5699991" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadIcons">
+          <image>TrainStation</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+  </children>
+  <children>
+    <self itemName="Signs">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="0" y="0" z="0" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="1" y="1" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <matrixTransform />
+    </self>
+    <children>
+      <self itemName="Blue">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-3.13999963" y="8.629998" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>Blue</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Blue Combination">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-3.19" y="7.029999" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="2" y="2" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>BlueCombination</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="BlueExitLongR">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-3.75" y="4.929999" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="2" y="2" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>BlueExitLongR</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="BlueExitShortR">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-8.0199995" y="8.679999" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>BlueExitShortR</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="BlueExitSignR">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-6.34999943" y="7.449999" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>BlueExitSign_R</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Blue_ServicesAhead">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-8.309999" y="7.449999" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>Blue_ServicesAhead</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Blue_TurnLeft">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-11.9599991" y="7.419999" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>Blue_TurnLeft</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Blue_TurnRight">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-11.9399986" y="6.34999943" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>Blue_TurnRight</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Green">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-3.94999981" y="2.639999" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>Green</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Green TurnLeft">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-8.309999" y="2.68999887" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>Green_TurnLeft</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Green Combination">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-4.14" y="1.089999" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="2" y="2" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>GreenCombination</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Green TurnRight">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-8.549999" y="1.54999888" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>Green_TurnRight</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="White">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-13.11" y="2.73999882" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>White</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="White TurnRight">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-13.5199995" y="4.919999" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>White_TurnRight</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="White TurnLeft">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-13.539999" y="3.869999" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>White_TurnLeft</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Yellow">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-17.7499981" y="2.729999" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>Yellow</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Yellow TurnLeft">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-17.6799984" y="1.72999907" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>Yellow_TurnLeft</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Yellow TurnRight">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-20.6599979" y="3.91999912" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+          <image>Yellow_TurnRight</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+  </children>
+</WELayout>

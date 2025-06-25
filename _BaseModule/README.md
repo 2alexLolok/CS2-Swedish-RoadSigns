@@ -1,13 +1,53 @@
-# Swedish themed road signs and decals
-This mod is changing all vanilla road signs to the Swedish equivalent.
+# [Tutorial on how to use this mod (recommended)](https://youtu.be/sqd3AoK-Vcw?si=R76Qg3EtgUqQxXyZ)
+# Bring life to your highways!
+This mods uses Write Everywhere to adds a collection of Swedish-styled Highway/Rural road signs. They are easily customizable and can also be saved to be used for later purposes.
+The mod includes:
+- Color coded signs
+-- Green (Highway)
+-- Blue (Country/Regional/Rural road)
+-- White (City road)
+-- Yellow (Private road)
+- 20+ **POI-style icons**
+-- Gas stations
+-- Restaurants
+-- Hopsitals
+-- and more.
+- **Directional arrows** for highways, roundabouts, standard roads.
+- **Exit number signs**
+-  **50+ ready to use templates** for quick customization.
 
-- Changes include
-- Speed limit signs
-- Parking signs
-- Taxi sign
-- Railway crossing signs
-- Road speed limit decals
-- Road arrow decals
+# [The font](https://drive.google.com/file/d/1I2uR7iErxCpSX3c2eLVQmKDCz2dDh1VR/view) has to be downloaded manually
+The font used for Swedish highways, and the font that these signs are made for is called TRATEX.
+For performance and copyright reasons, you'll have to **download and insert the font yourself** and can be found [HERE](https://drive.google.com/file/d/1I2uR7iErxCpSX3c2eLVQmKDCz2dDh1VR/view) and exactly how to insert it is shown in the tutorial. The font is is free to download and use for illustrations and prints.
 
-## WRITE EVERYWHERE IS REQUIRED FOR THIS MOD TO WORK
-Before using this mod make sure that Write Everywhere is downloaded and active!
+## How to use?
+When in game, place down a highway structure that matches the road you wanna use signs for.
+- Download the font and put it in \Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts from the appdata folder (if there's no font folder you'll have to create one)
+- Load the font ingame
+- CTRL + W and click on the structure
+- Press the folder and load a template from the mod.
+- Customize it.
+- Finished!
+## How to save your signs
+When you have done a sign and wanna save it, select the object at the top (root) and press save and export as XML. You can later load that template you just made for other locations in your save, or in other saves. 
+All templates are stored locally,
+
+
+## Required mods:
+[Write Everywhere](https://mods.paradoxplaza.com/mods/92908/Windows) - To generate and render the text. This module is **impossible** without this mod.
+[Highway Sign Structures](https://mods.paradoxplaza.com/mods/113261/Windows) - Strongly recommended since there is no highway sign holder in the base game.
+
+## Template naming explained
+To keep the template names as short as possible it may be confusing to know what they actually mean. 
+An example is "3 Lane HWY exit 3D_B". 
+- `3 Lane HWY exit 3D_B`
+- `3 Lane HWY` = structure type
+- `exit 3D` = three destinations (3 rows of text)
+- `_B` = arrow style (A = near exit, B/C = early signs ~300m before)
+
+### Disclaimer
+While the signs **may impact performance**, I personally haven't noticed any major FPS or simulation changes, but it may affect weaker machines.
+
+This mod is maybe not done the most efficient way, but i just wanted to share my set of templates i use in my cities for other people. I would be super happy if someone found an even more efficiant way to create, and customize the signs in WE maybe using formulas.
+
+# Enjoy!

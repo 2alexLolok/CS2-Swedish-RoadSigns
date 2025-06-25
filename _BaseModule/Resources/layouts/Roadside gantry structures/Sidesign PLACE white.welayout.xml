@@ -1,0 +1,87 @@
+<WELayout>
+  <self itemName="White Sign">
+    <transform alignment="Left" arrayAxisOrder="XYZ">
+      <offsetPosition x="0" y="-0.16" z="0" />
+      <offsetRotation x="-0" y="0" z="0" />
+      <scale x="0" y="0" z="0" />
+      <mustDraw>0</mustDraw>
+      <instanceCount>-1</instanceCount>
+      <arrayInstances x="1" y="1" z="1" />
+      <arraySpacing x="0" y="0" z="0" />
+    </transform>
+    <textMesh fontName="">
+      <text></text>
+      <MaxWidthMeters>0</MaxWidthMeters>
+    </textMesh>
+    <defaultStyle>
+      <color>00000000</color>
+      <emissiveColor>00000000</emissiveColor>
+      <metallic>0</metallic>
+      <smoothness>0</smoothness>
+      <emissiveIntensity>0</emissiveIntensity>
+      <emissiveExposureWeight>0</emissiveExposureWeight>
+      <coatStrength>0</coatStrength>
+      <colorMask1>000000</colorMask1>
+      <colorMask2>000000</colorMask2>
+      <colorMask3>000000</colorMask3>
+    </defaultStyle>
+  </self>
+  <children>
+    <self itemName="Sign">
+      <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
+        <offsetPosition x="0" y="2.68" z="0.374" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="4" y="1" z="1" />
+        <mustDraw>0</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <imageMesh atlas="Custom Swedish HWY Signs:SE_RoadSigns">
+        <image>White</image>
+      </imageMesh>
+      <defaultStyle decalFlags="0">
+        <color>FFFFFFFF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0.41582945</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+    <children>
+      <self itemName="Name">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0" y="0" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.45" y="0.45" z="1" />
+          <mustDraw>0</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <textMesh fontName="TRATV_" rescaleHeightOnTextOverflow="true">
+          <text>LIMHAMN</text>
+        </textMesh>
+        <defaultStyle>
+          <color>000000FF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <variable key="newKey" value="newValue" />
+    <variable key="newKey" value="newValueS" />
+  </children>
+</WELayout>
